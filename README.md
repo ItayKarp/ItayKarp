@@ -84,7 +84,9 @@ I'm highly motivated, passionate about continuous learning, and thrive in dynami
 
 ---
 
-> I like taking on problems I haven't solved before, learning what's needed fast, and turning that into working solutions.
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
+</div>
 
 ---
 
